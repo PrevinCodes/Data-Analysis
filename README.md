@@ -1,1 +1,1 @@
-I did this project to show case my skills in data analysis using R programming.
+The projects that I'm uploading to this repository is to showcase my data analysis skills on platforms such as R, SQL, Power Bi amd Tableau.
