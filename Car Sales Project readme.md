@@ -1,4 +1,5 @@
-# Car Sales Data Analysis (Report and Dashboard created using Microsoft Power Bi
+# Car Sales Data Analysis
+Report and Dashboard created using Microsoft Power Bi
 
 ## Project Objective
 I created a sales report for the years 2014 and 2015. I wanted to understand which brands of cars were sold the most between those 2 years in Northern America.
