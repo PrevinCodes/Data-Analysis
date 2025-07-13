@@ -18,3 +18,12 @@ The dataset I used was sourced through a Google search. I do not recommend takin
   * Create measures for Total Sales and Sales YoY growth to include in KPI's.
   * Create report pages with visuals and slicers to drill-through to.
   * Create an interactive dashboard.
+
+ ## Project Insights
+  * Car sales in 2015 grew over 1000% in sales and number of cars sold.
+  * In 2015, car sales were higher in the first 6 months of the year.
+  * Domestic brands like Ford, Chevrolet and Dodge are in the top 10 sales by brand, with Ford being number 1.
+  * Car sales of the top 10 brands contributed to over half of the total sales of $7.6bn.
+  * The number of cars sold of the top 10 brands contributed to over half of the total number of cars sold which is 558,799 cars.
+
+## Dashboard and Report pages
