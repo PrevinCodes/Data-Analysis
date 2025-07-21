@@ -28,4 +28,4 @@ The dataset I used was sourced through a Google search. I do not recommend takin
   * The number of cars sold of the top 10 brands contributed to over half of the total number of cars sold which is 558,799 cars.
 
 ## Dashboard and Report pages
-<a href = "https://github.com/PrevinCodes/Data-Analysis/blob/main/Car%20Sales%20Dashboard%20and%20Reports.pdf">Click to View</a>
+<a href = "3.1-Car Sales Dashboard and Reports.pdf">Click to View</a>
