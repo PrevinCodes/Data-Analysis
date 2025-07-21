@@ -41,4 +41,4 @@ The dataset I used was sourced through a Google search. I do not recommend takin
   * The Hotel sees a lot more of New Guests and Adult Guests when compared to Old Guests and Child Guests.
 
 ## Dashboard and Report pages
-<a href = "3.1-Car Sales Dashboard and Reports.pdf">Click to View</a>
+<a href = "4.1-Hotel Reservations Dashboards and Reports.pdf">Click to View</a>
